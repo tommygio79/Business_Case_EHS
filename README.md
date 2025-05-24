@@ -48,7 +48,7 @@ Regional Commercial Director @ Okadoc Technologies
 
 ## 📄 Live Preview
 
-👉 [Open Case Study](https://tommygio79.github.io/okadoc-ehs-case-study)
+👉 [Open Case Study](https://tommygio79.github.io/EHS/)
 
 ---
 
