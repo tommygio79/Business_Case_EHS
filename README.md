@@ -8,7 +8,7 @@ This case study outlines the successful digital transformation journey of Emirat
 - **Sector:** Government Healthcare
 - **Deployment Year:** 2023
 - **Territory:** United Arab Emirates
-- **Doctors Supported:** 600+
+- **Doctors Supported:** 2000+
 - **Facilities:** 134 (Hospitals, PHCs, Public Health Centers)
 
 ## ⚠️ Challenges
@@ -43,7 +43,7 @@ EHS faced poor patient satisfaction, outdated digital infrastructure, and fragme
 
 ## 🧑‍💻 Project Author
 
-Made with ❤️ by [Tommaso Gioacchini](https://www.tommasogioacchini.com)  
+Made with ❤️ by [Tommaso Gioacchini]  
 Regional Commercial Director @ Okadoc Technologies
 
 ## 📄 Live Preview
